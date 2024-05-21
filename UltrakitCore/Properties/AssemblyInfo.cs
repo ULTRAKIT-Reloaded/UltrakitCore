@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UltrakitCore")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ULTRAKIT.Core")]
+[assembly: AssemblyDescription("Core module for ULTRAKIT addons.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("UltrakitCore")]
+[assembly: AssemblyCompany("ULTRAKIT")]
+[assembly: AssemblyProduct("Core")]
 [assembly: AssemblyCopyright("Copyright © HP 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

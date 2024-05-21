@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine.AddressableAssets;
 
-namespace ULTRAKIT.Core.Data
+namespace ULTRAKIT.Core.Objects
 {
     public class UKAsset : AssetReference
     {

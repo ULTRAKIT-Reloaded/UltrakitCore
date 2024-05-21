@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UltrakitCore
+namespace ULTRAKIT.Core
 {
     [BepInPlugin("ULTRAKIT.core", "ULTRAKIT Core", "1.0.0")]
     public class Mod : BaseUnityPlugin

@@ -7,8 +7,8 @@
     <ProjectGuid>{F035BEA0-D624-4A64-87D0-5BDB15B3D2A4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UltrakitCore</RootNamespace>
-    <AssemblyName>UltrakitCore</AssemblyName>
+    <RootNamespace>ULTRAKIT.Core</RootNamespace>
+    <AssemblyName>ULTRAKIT.Core</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -156,7 +156,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\UKAsset.cs" />
+    <Compile Include="GraphicsUtilities.cs" />
+    <Compile Include="Objects\RenderFixer.cs" />
+    <Compile Include="Objects\UKAsset.cs" />
     <Compile Include="Extensions\ComponentExtensions.cs" />
     <Compile Include="Extensions\EnumerableExtensions.cs" />
     <Compile Include="Main.cs" />
