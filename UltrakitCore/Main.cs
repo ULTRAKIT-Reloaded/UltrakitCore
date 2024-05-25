@@ -15,6 +15,8 @@ namespace ULTRAKIT.Core
 
         private void Awake()
         {
+            AssetLoader.RegisterAssets();
+
             Logger = base.Logger;
             Logger.LogInfo("ULTRAKIT Module Loaded: Core Module");
         }
